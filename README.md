@@ -1,2 +1,6 @@
-# B-B-VIlla-Rish
-a website for a small bed and breakfast bussiness
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+...
+
+npm sat
